@@ -48,7 +48,7 @@ class HomePage extends StatelessWidget {
         ),
         children: [
           const SizedBox(
-            height: 40,
+            height: 60,
           ),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,

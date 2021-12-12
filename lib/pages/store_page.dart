@@ -13,7 +13,7 @@ class StorePage extends StatelessWidget {
         ),
         children: [
           const SizedBox(
-            height: 40,
+            height: 60,
           ),
           Row(
             children: [
@@ -248,6 +248,9 @@ class ProductItem extends StatelessWidget {
         ),
         const Divider(
           thickness: 2,
+        ),
+        const SizedBox(
+          height: 24,
         ),
       ],
     );
